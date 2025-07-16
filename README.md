@@ -60,4 +60,7 @@ java NodeB
 	4.	Mello, S. L. V., & Duarte Jr., E. P. (2022). A hybrid peer-to-peer and client server strategy for multimedia streaming. Retrieved from https://www.researchgate.net/publication/359202633
 	5.	Talaver, O. V., & Vakaliuk, T. A. (2023). Reliable distributed systems: Review of modern approaches. Journal of Edge Computing. https://doi.org/10.55056/jec.586
 
+ <img width="500" height="94" alt="image" src="https://github.com/user-attachments/assets/beb02e48-a925-4a2f-88bb-79260c43ef26" />
+
+
 .
